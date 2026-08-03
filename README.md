@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou Gabriel Silva de Almeida 👋</h1>
 
-<!--
-**Gabriel-g1t/Gabriel-g1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Desenvolvedor Front-end em formação <br>
+  🚀 Apaixonado por tecnologia, desenvolvimento web e aprendizado contínuo
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor Front-end em formação e construo projetos para aperfeiçoar minhas habilidades e me preparar para minha primeira oportunidade na área.
+
+Já concluí minha formação em **HTML5**, **CSS3**, **Git** e **GitHub**, tecnologias que utilizo no desenvolvimento de sites responsivos e organizados.
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+- ⚡ JavaScript
+- 🤖 Inteligência Artificial aplicada ao desenvolvimento
+
+Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado, demonstrando minha evolução como desenvolvedor e meu compromisso com boas práticas de programação.
+
+---
+
+## 🚀 Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📂 Projetos em destaque
+
+- 🌐 Portfólio Pessoal
+- 📱 Projeto Android
+- 📜 Projeto Cordel
+- 💻 Projetos e desafios em JavaScript
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gabriel-g1t&show_icons=true&theme=github_dark"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-g1t&layout=compact&theme=github_dark"/>
+</p>
+
+---
+
+## 🎯 Objetivos
+
+- 🚀 Evoluir continuamente como Desenvolvedor Front-end
+- ⚛️ Aprender React e aprofundar meus conhecimentos em JavaScript
+- 📱 Desenvolver aplicações modernas, responsivas e acessíveis
+- 💼 Conquistar minha primeira oportunidade como Desenvolvedor Front-end
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: www.linkedin.com/in/gabriel-silva-de-almeida-57344938b
+- 🌐 Portfólio: https://gabriel-g1t.github.io/portfolio/index.html
+- 📧 E-mail: gabrielsilvadealmeidaaa@gmail.com
+
+---
+
+<p align="center">
+⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor. 🚀
+</p>
